@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=180&section=header&text=✦%20olá,%20eu%20sou%20[SEU%20NOME]%20✦&fontSize=36&fontColor=fffafa&fontAlignY=38&animation=fadeIn&desc=desenvolvedora%20%7C%20artista%20%7C%20criadora%20de%20histórias&descSize=16&descFontColor=fffafa&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=180&section=header&text=✦%20olá,%20eu%20sou%20a%20Marjorye%20✦&fontSize=36&fontColor=fffafa&fontAlignY=38&animation=fadeIn&desc=desenvolvedora%20%7C%20artista%20%7C%20criadora%20de%20histórias&descSize=16&descFontColor=fffafa&descAlignY=60" />
 
 <!-- Hello Kitty GIF decorativo -->
 <img src="https://i.pinimg.com/originals/4e/24/09/4e2409996f3f461d6f897f2dbc4b6b37.gif" width="90"/>
@@ -118,7 +118,7 @@ Faço páginas em HTML como hobby — adoro personalizar tudo!
 
 ✍️ **Escrita**
 <br/>
-Escrevo histórias e roteiros que um dia vão virar jogos incríveis
+Escrevo histórias e roteiros que um dia, espero que todos possam ver!
 
 </td>
 <td align="center" width="200">
