@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=180&section=header&text=✦%20olá,%20eu%20sou%20a%20Marjorye%20✦&fontSize=36&fontColor=fffafa&fontAlignY=38&animation=fadeIn&desc=desenvolvedora%20%7C%20artista%20%7C%20criadora%20de%20histórias&descSize=16&descFontColor=fffafa&descAlignY=60" />
 
-<!-- Hello Kitty GIF decorativo -->
+<!-- gatinho GIF decorativo -->
 <img src="https://i.pinimg.com/originals/4e/24/09/4e2409996f3f461d6f897f2dbc4b6b37.gif" width="90"/>
 &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdnY2hrdTk5dzdkbW1kbzE0NnkybzZtaWc4MXJ2NDRkZm9waDJhdiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="90"/>
@@ -16,7 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff0042?style=for-the-badge&logo=linkedin&logoColor=fffafa)](https://linkedin.com/in/SEU-USUARIO)
 [![Instagram](https://img.shields.io/badge/Instagram-%23ff9999?style=for-the-badge&logo=instagram&logoColor=fffafa)](https://instagram.com/SEU-USUARIO)
 
----
+<!-- SEPARADOR MORANGUINHO -->
+<img src="./strawberry-divider.svg" width="100%"/>
 
 </div>
 
@@ -40,17 +41,13 @@
 
 </div>
 
----
+<div align="center">
+<img src="./strawberry-divider.svg" width="100%"/>
+</div>
 
 <div align="center">
 
 ## 🎀 linguagens & habilidades 🎀
-
-</div>
-
-<!-- Barras de progresso via readme-typing-svg não existem nativamente, então usamos uma imagem de skill icons + tabela customizada -->
-
-<div align="center">
 
 | Linguagem | Nível | Proficiência |
 |:---------:|:-----:|:------------:|
@@ -60,23 +57,20 @@
 | ☕ Java | ██████████████░░░░░░ | 70% |
 | 💻 C | ██████████████░░░░░░ | 70% |
 
-</div>
-
 <br/>
 
-<div align="center">
-
-<!-- Skill icons usando shields.io com as cores do tema -->
 ![HTML5](https://img.shields.io/badge/HTML5-%23ff0042?style=flat-square&logo=html5&logoColor=fffafa)
 ![Python](https://img.shields.io/badge/Python-%23ff9999?style=flat-square&logo=python&logoColor=fffafa)
 ![C Sharp](https://img.shields.io/badge/C%23-%23ff0042?style=flat-square&logo=csharp&logoColor=fffafa)
 ![Java](https://img.shields.io/badge/Java-%23ff9999?style=flat-square&logo=openjdk&logoColor=fffafa)
 ![C](https://img.shields.io/badge/C-%23ff0042?style=flat-square&logo=c&logoColor=fffafa)
-![RPG Maker](https://img.shields.io/badge/RPG%20Maker%20MV-%23ff9999?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=fffafa)
+![RPG Maker](https://img.shields.io/badge/RPG%20Maker%20MV-%23ff9999?style=flat-square&logoColor=fffafa)
 
 </div>
 
----
+<div align="center">
+<img src="./strawberry-divider.svg" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -118,7 +112,7 @@ Faço páginas em HTML como hobby — adoro personalizar tudo!
 
 ✍️ **Escrita**
 <br/>
-Escrevo histórias e roteiros que um dia, espero que todos possam ver!
+Escrevo histórias e roteiros que um dia vão virar jogos incríveis
 
 </td>
 <td align="center" width="200">
@@ -133,7 +127,9 @@ Eterna fã da gatinha mais fofa do mundo! 🐱
 
 </div>
 
----
+<div align="center">
+<img src="./strawberry-divider.svg" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -143,17 +139,15 @@ Eterna fã da gatinha mais fofa do mundo! 🐱
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&title_color=ff0042&text_color=ff9999&border_color=ff9999&bg_color=fffafa00" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=transparent&ring=ff0042&fire=ff0042&currStreakLabel=ff9999&sideLabels=ff9999&currStreakNum=ff0042&sideNums=ff0042&dates=ff9999&border=ff9999" />
+<img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=transparent&ring=ff0042&fire=ff0042&currStreakLabel=ff9999&sideLabels=ff9999&currStreakNum=ff0042&sideNums=ff0042&dates=ff9999&border=ff9999" />
 
 </div>
 
----
+<div align="center">
+<img src="./strawberry-divider.svg" width="100%"/>
+</div>
 
 <div align="center">
 
