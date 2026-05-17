@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9999&height=180&section=header&text=✦%20olá,%20eu%20sou%20[SEU%20NOME]%20✦&fontSize=36&fontColor=fffafa&fontAlignY=38&animation=fadeIn&desc=desenvolvedora%20%7C%20artista%20%7C%20criadora%20de%20histórias&descSize=16&descFontColor=fffafa&descAlignY=60" />
 
-<!-- Hello Kitty GIF decorativo -->
+<!-- gatinho GIF decorativo -->
 <img src="https://i.pinimg.com/originals/4e/24/09/4e2409996f3f461d6f897f2dbc4b6b37.gif" width="90"/>
 &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdnY2hrdTk5dzdkbW1kbzE0NnkybzZtaWc4MXJ2NDRkZm9waDJhdiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="90"/>
