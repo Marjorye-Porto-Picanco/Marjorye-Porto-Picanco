@@ -13,8 +13,8 @@
 <br/>
 
 <!-- Badges de contato -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff0042?style=for-the-badge&logo=linkedin&logoColor=fffafa)](https://linkedin.com/in/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-%23ff9999?style=for-the-badge&logo=instagram&logoColor=fffafa)](https://instagram.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff0042?style=for-the-badge&logo=linkedin&logoColor=fffafa)](https://www.linkedin.com/in/marjorye-porto-pican%C3%A7o-372ab9315/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23ff9999?style=for-the-badge&logo=instagram&logoColor=fffafa)](https://www.instagram.com/marjorye.p.picanco)
 
 <!-- SEPARADOR MORANGUINHO -->
 <img src="./strawberry-divider.svg" width="100%"/>
